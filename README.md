@@ -17,7 +17,8 @@ I also work freelance! I've worked with several customers over the past few mont
  - [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-545a6a177)
  
 ## Contact Me
-Right now, the only way to contact me would be through one of the options above. My work email is down at the moment, and I haven't had time to put it back up.
+E-mail: ``me@nogueira.codes``
+PGP Public Key: [here](http://pool.sks-keyservers.net/pks/lookup?op=get&search=0x48DF709E7405702B)
 
 ### Thank you for checking out my profile!
 
