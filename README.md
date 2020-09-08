@@ -18,6 +18,7 @@ I also work freelance! I've worked with several customers over the past few mont
  
 ## Contact Me
 E-mail: ``me@nogueira.codes``
+
 PGP Public Key: [here](http://pool.sks-keyservers.net/pks/lookup?op=get&search=0x48DF709E7405702B)
 
 ### Thank you for checking out my profile!
