@@ -8,7 +8,7 @@ Most of my code lives on a private [Gitea](https://github.com/go-gitea/gitea) in
 
 I have close to 40 projects hosted privately.
 
-🔭 I’m currently working on a human resources management system for game servers/communities. It'll be made public here on Github once it reaches version ``1.0.0``. There will also be a premium version with more features (gotta have a side hustle).
+🔭 I’m currently working on a human resources management system for game servers/communities. It's currently hosted on my Gitea instance, [here](https://code.spacejewel-hosting.com/spacejewelhosting/staffmanager).
 
 I also work freelance! I've worked with several customers over the past few months and I enjoy implementing their ideas into reality.
 
@@ -17,9 +17,7 @@ I also work freelance! I've worked with several customers over the past few mont
  - [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-545a6a177)
  
 ## Contact Me
-E-mail: ``me@nogueira.codes``
-
-PGP Public Key: [here](http://pool.sks-keyservers.net/pks/lookup?op=get&search=0x48DF709E7405702B)
+E-mail: ``me@nogueira.codes`` (he/him)
 
 ### Thank you for checking out my profile!
 
