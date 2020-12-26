@@ -12,10 +12,6 @@ I have close to 40 projects hosted privately.
 
 I also work freelance! I've worked with several customers over the past few months and I enjoy implementing their ideas into reality.
 
-## My Profiles
- - [Fiverr](https://fiverr.com/miguelpt2018)
- - [LinkedIn](https://www.linkedin.com/in/miguel-nogueira-545a6a177)
- 
 ## Contact Me
 E-mail: ``me@nogueira.codes`` (he/him)
 
