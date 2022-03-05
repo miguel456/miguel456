@@ -42,6 +42,10 @@ A few facts about me:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## Other important profiles
+
+ - Check out my Gitea profile [here](https://code.webvokestudio.pt/miguel456) (Private instance). 
+
 ## Spoken languages
 
 I'm billingual!
