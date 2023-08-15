@@ -57,8 +57,8 @@ I'm billingual!
 ## Ways to reach me
 By email: ``me@nogueira.codes``
 
-My GnuPG public key can be found [here](https://pki.nogueira.codes/8BD809A7A3073DEED9787EE13C6A7E29AF26D370.asc). This key signs my commits & outgoing emails. Fingerprint: ``8BD8 09A7 A307 3DEE D978 7EE1 3C6A 7E29 AF26 D370``. 
+My GnuPG public key can be found [here](https://pki.nogueira.codes/66F99BACACB8DC54.asc). This key signs my commits & outgoing emails. If you prefer, this key is also available on the [OpenPGP keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/E7EC6E9F446392D20AC7B6DF66F99BACACB8DC54) which verifies email addresses attached to keys.
 
-If you prefer, this key is also available on the [OpenPGP keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/8BD809A7A3073DEED9787EE13C6A7E29AF26D370) which verifies email addresses attached to keys.
+Please note: the old published key, identified as [0x3C6A7E29AF26D370](https://pki.nogueira.codes/8BD809A7A3073DEED9787EE13C6A7E29AF26D370.asc), expired on 09/08/2023. It has been replaced by ``0x66F99BACACB8DC54`` (as noted above). While the old key is still available for posterity and old commit verification, I'm not using it anymore.
 
 [![miguel456's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel456&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/miguel456/miguel456)
